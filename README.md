@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá,meu nome é @wesleifaga
+- 👋 Olá,meu nome é **wesleifaga**
 - 👍Meu email é para contato weslei.faga@escola.pr.gov.br
 - 👀 Meu estou interessado em criar meu portifólio
 - 🌱 Estou aprendendo a programar
